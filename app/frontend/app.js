@@ -4,7 +4,7 @@ ou externo pela própria promisse do fetch
 neste caso usei o nivel mais interno da função
 */
 
-let url = 'http://192.168.100.5:8080/server'
+let url = 'http://localhost:8080/server'
 
 const options = {
     method: 'GET',
